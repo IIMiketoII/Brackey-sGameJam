@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-1.9227838516235352,"y":1.25,"z":7.840000152587891},"rotation":{"x":0.051381904631853107,"y":-0.23073238134384156,"z":0.012122895568609238,"w":0.9717523455619812},"size":6.450984001159668,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-20.553333282470704,"y":18.49160385131836,"z":-7.142974376678467},"rotation":{"x":-0.1900668740272522,"y":-0.7171541452407837,"z":0.21541529893875123,"w":-0.63534015417099},"size":6.867284774780273,"orthographic":false}
+>>>>>>> LevelDesign
